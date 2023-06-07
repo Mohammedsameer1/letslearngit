@@ -5,3 +5,4 @@ var z =5
 
 result=i*z 
 console.log(result)
+console.log("hey this is the result ")
